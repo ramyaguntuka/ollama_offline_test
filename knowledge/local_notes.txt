@@ -1,4 +1,4 @@
 Project: ollama_offline_test
 Model: llama3.1:8b, running only through Ollama on this computer.
-Rule: answers must come from these local notes or the current chat. There is no internet lookup.
+These notes cover this project only. They do not include news, weather, prices, or other live facts.
 Meeting room for this project: Room 12, Building C.
